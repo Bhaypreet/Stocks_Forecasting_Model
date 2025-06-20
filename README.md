@@ -1,1 +1,1 @@
-# Stocks_Forecasting_Model
+# Stocks Forecasting Model
